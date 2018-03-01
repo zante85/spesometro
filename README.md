@@ -1,5 +1,5 @@
-# spesometro
-Programma Java compilazione Spesometro da CSV
+# spesometro 2017-2018
+Programma Java compilazione Spesometro 2017 da CSV
 
 Nel file indiciColonne sono presenti i campi da compilare per il CSV
 
