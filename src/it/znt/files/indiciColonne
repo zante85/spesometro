@@ -1,0 +1,25 @@
+0: Data registrazione
+1: N.  Fattura
+2: Data Fattura
+3: CAMPO ID
+4: FORNITORE-CLIENTE COGNOME NOME / DENOMINAZIONE
+5: FORNITORE-CLIENTE CAP 
+6: FORNITORE-CLIENTE INDIRIZZO
+7: FORNITORE-CLIENTE CITTA 
+8: FORNITORE-CLIENTE PROVINCIA
+9: FORNITORE-CLIENTE PIVA/CF
+10:Importo tot operazioni 
+11:Imponibile al 22
+12:Iva al 22
+13:Imponibile al 10
+14:Iva al 10
+15:Imponibile al 4
+16:Iva al 4
+17:Impobile da definire
+18:Iva da definire
+19:Imponibile indetraibile
+20:Iva indetraibile
+21:Operazioni non imponibili
+22:Operazioni esenti
+23:ImportiIva non detraibile
+24:Alri importi non soggetti a regist. Iva
